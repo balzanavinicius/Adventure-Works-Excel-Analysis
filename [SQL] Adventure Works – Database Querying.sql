@@ -1,11 +1,11 @@
-			/* Adventure Works – SQL Excel Project */
+	/* Adventure Works – SQL Excel Project */
 
-			-- Relevant KPIs 
+	-- Relevant KPIs 
 
-			-- 1. Total Online Sales by Category 
-			-- 2. Total Online Revenue by Order Month
-			-- 3. Total Online Sales Revenue & Cost by Country
-			-- 4. Total Online Sales by Gender
+	-- 1. Total Online Sales by Category 
+	-- 2. Total Online Revenue by Order Month
+	-- 3. Total Online Sales Revenue & Cost by Country
+	-- 4. Total Online Sales by Gender
 
 	/* Chosen Tables */
 
