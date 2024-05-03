@@ -1,4 +1,4 @@
-			/* Adventure Works – SQL Excel Project */
+			/* Adventure Works â€“ SQL Excel Project */
 
 			-- Relevant KPIs 
 
